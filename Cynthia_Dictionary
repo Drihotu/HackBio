@@ -1,0 +1,10 @@
+Cynthia_dictionary = {
+    "Name": ["Samuel Eneojo Akor","Amaka Madubuike","precious-Gift Alele","Balamirra Yegneswaran","Danboyi Cynthia"],
+    "Slack_Username":["SamuelEA","AmakaMadubuike","PreciousGift","Mirra","DrIhotu"],
+    "Email":["Akorsamuel@gmail.com","amakamadubuike2023@gmail.com","precious1gift@gmail.com","mirra2326@gmail.com","cynthiadanboyi05@gmail.com"],
+    "Hobby":["Music","Reading fiction","Enjoying nature","Music","Graphic design"],
+    "Country":["Nigeria","Nigeria","Nigeria","India","Nigeria"],
+    "Discipline":["Biotechnology","Physiology","Health Informatics","Biotechnology","Veterinary medicine"],
+    "Preferred_Language":["Python","R","R","Python","Python"],
+}
+print(Cynthia_dictionary)
